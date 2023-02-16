@@ -1,6 +1,6 @@
 # OpenHPC OBS worker container
 
-To run OBS workers on something else then Leap we use
+To run OBS workers on something else than Leap we use
 a container. Installation details can be found in the
 ansible files.
 
